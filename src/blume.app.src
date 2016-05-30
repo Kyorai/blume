@@ -1,0 +1,15 @@
+{application, blume,
+ [{description, "Pure erlang bloom Filters"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, ["Heinz N. Gies"]},
+  {licenses, ["EPL"]},
+  {links, []}
+ ]}.
