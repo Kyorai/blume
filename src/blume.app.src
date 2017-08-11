@@ -11,5 +11,5 @@
 
   {maintainers, ["Heinz N. Gies"]},
   {licenses, ["EPL"]},
-  {links, [{"Github", " github.com/Kyorai/blume"}]}
+  {links, [{"Github", "https://github.com/Kyorai/blume"}]}
  ]}.
