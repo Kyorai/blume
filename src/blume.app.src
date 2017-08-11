@@ -1,6 +1,6 @@
 {application, blume,
  [{description, "Pure erlang bloom Filters"},
-  {vsn, "0.1.0"},
+  {vsn, git},
   {registered, []},
   {applications,
    [kernel,
@@ -11,5 +11,5 @@
 
   {maintainers, ["Heinz N. Gies"]},
   {licenses, ["EPL"]},
-  {links, []}
+  {links, [{"Github", " github.com/Kyorai/blume"}]}
  ]}.
